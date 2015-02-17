@@ -1,0 +1,53 @@
+Classifier: RDP Naive Bayesian rRNA Classifier Version 2.8, June 2014
+Taxonomical Hierarchy: RDP 16S rRNA training set 9
+Query File: AD-820_FASTA_bac.TXT
+Submit Date: Tue Sep 02 16:48:55 EDT 2014
+Confidence threshold (for classification to Root ONLY): 80%
+Symbol +/- indicates predicted sequence orientation
+
+AD-820_A02+AF-179_A01;+;Bacteria;100%;"Proteobacteria";99%;Alphaproteobacteria;94%;Rhizobiales;37%;Methylocystaceae;23%;Terasakiella;23%
+AD-820_B03+AF-179_B01;+;Bacteria;100%;"Actinobacteria";100%;Actinobacteria;100%;Actinomycetales;100%;Mycobacteriaceae;100%;Mycobacterium;100%
+AD-820_B06+AF-179_C01;+;Bacteria;100%;"Proteobacteria";96%;Alphaproteobacteria;86%;Rhizobiales;41%;"Aurantimonadaceae";21%;Martelella;18%
+AD-820_B14+AF-179_D01;+;Bacteria;100%;"Proteobacteria";97%;Alphaproteobacteria;90%;Rhizobiales;37%;Bradyrhizobiaceae;16%;Agromonas;15%
+AD-820_C05+AF-179_E01;+;Bacteria;100%;"Proteobacteria";100%;Betaproteobacteria;100%;Methylophilales;94%;Methylophilaceae;94%;Methylotenera;62%
+AD-820_C06+AF-179_F01;+;Bacteria;100%;"Actinobacteria";100%;Actinobacteria;100%;Actinomycetales;100%;Pseudonocardiaceae;19%;Allokutzneria;15%
+AD-820_C11+AF-179_G01;+;Bacteria;100%;"Proteobacteria";100%;Alphaproteobacteria;100%;Rhodobacterales;21%;Rhodobacteraceae;21%;Ahrensia;17%
+AD-820_C13+AF-179_H01;+;Bacteria;100%;"Proteobacteria";88%;Alphaproteobacteria;77%;Rhizobiales;38%;Bradyrhizobiaceae;16%;Agromonas;16%
+AD-820_C21+AF-179_A02;+;Bacteria;100%;"Actinobacteria";100%;Actinobacteria;100%;Actinomycetales;100%;Dermatophilaceae;15%;Austwickia;13%
+AD-820_C22+AF-179_B02;+;Bacteria;100%;Firmicutes;40%;Clostridia;38%;Thermoanaerobacterales;13%;Thermoanaerobacteraceae;13%;Desulfovirgula;10%
+AD-820_D14+AF-179_C02;+;Bacteria;100%;"Proteobacteria";100%;Betaproteobacteria;100%;Methylophilales;69%;Methylophilaceae;69%;Methylotenera;34%
+AD-820_D15+AF-179_D02;+;Bacteria;100%;Firmicutes;48%;Clostridia;41%;Clostridiales;39%;Peptococcaceae 1;9%;Desulfitibacter;9%
+AD-820_D18+AF-179_E02;+;Bacteria;100%;"Actinobacteria";100%;Actinobacteria;100%;Actinomycetales;100%;Cryptosporangiaceae;36%;Fodinicola;36%
+AD-820_E07+AF-179_F02;+;Bacteria;100%;"Proteobacteria";100%;Betaproteobacteria;100%;Burkholderiales;81%;Burkholderiales_incertae_sedis;41%;Piscinibacter;25%
+AD-820_E10+AF-179_G02;+;Bacteria;100%;"Proteobacteria";87%;Alphaproteobacteria;79%;Rhizobiales;59%;"Aurantimonadaceae";20%;Martelella;20%
+AD-820_E14+AF-179_H02;+;Bacteria;100%;"Planctomycetes";100%;Phycisphaerae;100%;Phycisphaerales;100%;Phycisphaeraceae;100%;Phycisphaera;100%
+AD-820_E17+AF-179_A03;+;Bacteria;100%;"Proteobacteria";100%;Epsilonproteobacteria;100%;Campylobacterales;100%;Helicobacteraceae;100%;Sulfurimonas;100%
+AD-820_E21+AF-179_B03;+;Bacteria;100%;"Proteobacteria";87%;Alphaproteobacteria;79%;Rhizobiales;31%;Bradyrhizobiaceae;14%;Agromonas;13%
+AD-820_E23+AF-179_C03;+;Bacteria;100%;"Proteobacteria";100%;Betaproteobacteria;100%;Burkholderiales;81%;Burkholderiales_incertae_sedis;33%;Piscinibacter;20%
+AD-820_F06+AF-179_D03;+;Bacteria;100%;"Proteobacteria";100%;Gammaproteobacteria;100%;Gammaproteobacteria_incertae_sedis;95%;Thioprofundum;90%;Thioprofundum;90%
+AD-820_F11+AF-179_E03;+;Bacteria;100%;"Bacteroidetes";100%;Flavobacteria;100%;"Flavobacteriales";100%;Flavobacteriaceae;100%;Aequorivita;92%
+AD-820_F20+AF-179_F03;+;Bacteria;100%;"Proteobacteria";100%;Gammaproteobacteria;100%;Gammaproteobacteria_incertae_sedis;47%;Porticoccus;29%;Porticoccus;29%
+AD-820_G02+AF-179_G03;+;Bacteria;100%;"Proteobacteria";88%;Alphaproteobacteria;75%;Rhizobiales;39%;Bradyrhizobiaceae;20%;Agromonas;18%
+AD-820_G05+AF-179_H03;+;Bacteria;100%;"Proteobacteria";91%;Alphaproteobacteria;78%;Rhizobiales;36%;Bradyrhizobiaceae;19%;Agromonas;18%
+AD-820_G07+AF-179_A04;+;Bacteria;100%;"Bacteroidetes";91%;"Sphingobacteria";90%;"Sphingobacteriales";90%;"Rhodothermaceae";85%;Salisaeta;84%
+AD-820_G11+AF-179_B04;+;Bacteria;100%;"Proteobacteria";100%;Betaproteobacteria;100%;Methylophilales;97%;Methylophilaceae;97%;Methylotenera;76%
+AD-820_G15+AF-179_C04;+;Bacteria;100%;"Proteobacteria";100%;Alphaproteobacteria;100%;Rhodobacterales;100%;Rhodobacteraceae;100%;Rhodobacter;93%
+AD-820_G17+AF-179_D04;+;Bacteria;100%;"Proteobacteria";100%;Gammaproteobacteria;100%;Oceanospirillales;51%;Hahellaceae;42%;Hahella;37%
+AD-820_I11+AF-179_E04;+;Bacteria;100%;"Proteobacteria";81%;Alphaproteobacteria;75%;Rhizobiales;59%;"Aurantimonadaceae";20%;Martelella;20%
+AD-820_J14+AF-179_F04;+;Bacteria;100%;"Actinobacteria";100%;Actinobacteria;100%;Actinomycetales;100%;Cryptosporangiaceae;21%;Fodinicola;21%
+AD-820_J22+AF-179_G04;+;Bacteria;100%;"Bacteroidetes";100%;"Sphingobacteria";100%;"Sphingobacteriales";100%;Chitinophagaceae;100%;Sediminibacterium;99%
+AD-820_K13+AF-179_H04;+;Bacteria;100%;"Actinobacteria";100%;Actinobacteria;100%;Actinomycetales;100%;Dermabacteraceae;19%;Devriesea;19%
+AD-820_L05+AF-179_A05;+;Bacteria;100%;"Proteobacteria";100%;Alphaproteobacteria;100%;Rhizobiales;18%;Rhodobiaceae;18%;Anderseniella;7%
+AD-820_L20+AF-179_B05;+;Bacteria;100%;"Proteobacteria";100%;Betaproteobacteria;100%;Nitrosomonadales;100%;Nitrosomonadaceae;100%;Nitrosospira;100%
+AD-820_M06+AF-179_C05;+;Bacteria;100%;"Proteobacteria";84%;Alphaproteobacteria;71%;Rhizobiales;56%;"Aurantimonadaceae";12%;Martelella;11%
+AD-820_M13+AF-179_D05;+;Bacteria;100%;"Proteobacteria";88%;Alphaproteobacteria;78%;Rhizobiales;39%;Bradyrhizobiaceae;11%;Agromonas;10%
+AD-820_M17+AF-179_E05;+;Bacteria;100%;"Proteobacteria";95%;Alphaproteobacteria;83%;Rhizobiales;35%;Bradyrhizobiaceae;14%;Agromonas;12%
+AD-820_N10+AF-179_F05;+;Bacteria;100%;"Proteobacteria";100%;Betaproteobacteria;100%;Burkholderiales;83%;Burkholderiales_incertae_sedis;41%;Piscinibacter;27%
+AD-820_O04+AF-179_G05;+;Bacteria;100%;"Actinobacteria";100%;Actinobacteria;100%;Acidimicrobiales;100%;Acidimicrobiaceae;96%;Ilumatobacter;96%
+AD-820_O09+AF-179_H05;+;Bacteria;100%;"Actinobacteria";100%;Actinobacteria;100%;Actinomycetales;100%;Nakamurellaceae;46%;Humicoccus;32%
+AD-820_O13+AF-179_A06;+;Bacteria;100%;"Planctomycetes";100%;"Planctomycetacia";100%;Planctomycetales;100%;Planctomycetaceae;100%;Planctomyces;75%
+AD-820_O15+AF-179_B06;+;Bacteria;100%;"Proteobacteria";100%;Betaproteobacteria;100%;Burkholderiales;79%;Burkholderiales_incertae_sedis;37%;Piscinibacter;29%
+AD-820_P06+AF-179_C06;+;Bacteria;100%;"Bacteroidetes";100%;Flavobacteria;100%;"Flavobacteriales";100%;Flavobacteriaceae;100%;Aequorivita;86%
+AD-820_P07+AF-179_D06;+;Bacteria;100%;"Proteobacteria";100%;Gammaproteobacteria;100%;Legionellales;32%;Coxiellaceae;32%;Coxiella;32%
+AD-820_P08+AF-179_E06;+;Bacteria;100%;"Proteobacteria";96%;Alphaproteobacteria;86%;Rhizobiales;75%;"Aurantimonadaceae";22%;Martelella;22%
+AD-820_P18+AF-179_F06;+;Bacteria;100%;"Bacteroidetes";100%;Flavobacteria;100%;"Flavobacteriales";100%;Flavobacteriaceae;100%;Gaetbulibacter;43%
