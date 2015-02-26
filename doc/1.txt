@@ -1,0 +1,19 @@
+1) AD-820_L20+AF-179_B05;+;Bacteria;100%;"Proteobacteria";100%;Betaproteobacteria;100%;Nitrosomonadales;100%;Nitrosomonadaceae;100%;Nitrosospira;100%
+
+?????
+2) AD-820_B03+AF-179_B01;+;Bacteria;100%;"Actinobacteria";100%;Actinobacteria;100%;Actinomycetales;100%;Mycobacteriaceae;100%;Mycobacterium;100%
+
+3) AD-820_E14+AF-179_H02;+;Bacteria;100%;"Planctomycetes";100%;Phycisphaerae;100%;
+      Phycisphaerales;100%;Phycisphaeraceae;100%;Phycisphaera;100%
+
+(http://journal.frontiersin.org/article/10.3389/fmicb.2014.00267/full)
+
+4) AD-820_E17+AF-179_A03;+;Bacteria;100%;"Proteobacteria";100%;Epsilonproteobacteria;100%;Campylobacterales;100%;
+   Helicobacteraceae;100%;Sulfurimonas;100%
+
+
+---------------
+
+1) AD-820_D13+AF-180_D01;+;Archaea;100%;"Crenarchaeota";40%;Thermoprotei;40%;Fervidicoccales;14%;Fervidicoccaceae;14%;Fervidicoccus;14%
+2) AD-820_J08+AF-180_G01;+;Archaea;100%;"Euryarchaeota";64%;Halobacteria;35%;Halobacteriales;35%;Halobacteriaceae;35%;Halobaculum;18%
+3) AD-820_J11+AF-180_H01;+;Archaea;98%;"Euryarchaeota";76%;Halobacteria;52%;Halobacteriales;52%;Halobacteriaceae;52%;Halobaculum;33%
